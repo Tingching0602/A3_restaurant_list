@@ -1,0 +1,27 @@
+{
+  "name": "restaurant_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/express-handlebars": "^5.3.1",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.14.3"
+  }
+}
